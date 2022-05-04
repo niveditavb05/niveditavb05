@@ -1,3 +1,6 @@
+<center>
+<img src="https://thumbs.dreamstime.com/b/isometric-d-illustration-girl-programmer-coding-project-using-computer-girl-programmer-web-engineer-freelancer-work-133756815.jpg",width="100",height="100"/></center>
+
 ### Hi there👋  I am Nivedita Birajdar
 
 
