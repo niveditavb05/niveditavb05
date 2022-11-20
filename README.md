@@ -2,6 +2,8 @@
   ### Hi there👋  I am Nivedita Birajdar
 <center>
 <img src="https://thumbs.dreamstime.com/b/isometric-d-illustration-girl-programmer-coding-project-using-computer-girl-programmer-web-engineer-freelancer-work-133756815.jpg",width="100",height="100"/></center>
+<img src="https://holopin.io/@niveditavb05">
+<img src="https://holopin.me/@niveditavb05">
 
 
 
